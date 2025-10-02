@@ -1,4 +1,4 @@
-package com.biancodavide3.java.foundamentals.controlflow;
+package com.horyxen.davide.ultimatejava.foundamentals.controlflow;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.biancodavide3.java.foundamentals.cleancoding;
+package com.horyxen.davide.ultimatejava.foundamentals.cleancoding;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.biancodavide3.java.foundamentals.types;
+package com.horyxen.davide.ultimatejava.foundamentals.types;
 
 import java.awt.Point;
 import java.text.NumberFormat;

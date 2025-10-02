@@ -1,4 +1,4 @@
-package com.biancodavide3.java.foundamentals.deploying;
+package com.horyxen.davide.ultimatejava.foundamentals.deploying;
 
 public class Main {
     public static void main(String[] args) {
